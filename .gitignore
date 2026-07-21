@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+fraud_report_output.txt
+venv/
